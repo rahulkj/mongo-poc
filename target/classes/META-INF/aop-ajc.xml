@@ -1,0 +1,19 @@
+<aspectj>
+<aspects>
+<aspect name="com.rahul.poc.service.PersonService_Roo_Service"/>
+<aspect name="com.rahul.poc.service.PersonServiceImpl_Roo_Service"/>
+<aspect name="com.rahul.poc.service.GenderServiceImpl_Roo_Service"/>
+<aspect name="com.rahul.poc.controller.GenderController_Roo_Controller"/>
+<aspect name="com.rahul.poc.domain.Gender_Roo_Mongo_Entity"/>
+<aspect name="com.rahul.poc.repository.GenderRepository_Roo_Mongo_Repository"/>
+<aspect name="com.rahul.poc.domain.Gender_Roo_ToString"/>
+<aspect name="com.rahul.poc.controller.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="com.rahul.poc.domain.Person_Roo_Mongo_Entity"/>
+<aspect name="com.rahul.poc.domain.Person_Roo_JavaBean"/>
+<aspect name="com.rahul.poc.domain.Gender_Roo_JavaBean"/>
+<aspect name="com.rahul.poc.repository.PersonRepository_Roo_Mongo_Repository"/>
+<aspect name="com.rahul.poc.controller.PersonController_Roo_Controller"/>
+<aspect name="com.rahul.poc.domain.Person_Roo_ToString"/>
+</aspects>
+</aspectj>
+
