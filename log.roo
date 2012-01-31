@@ -17,3 +17,5 @@ web mvc all --package ~.controller
 field string --fieldName genderAlias --class ~.domain.Gender
 security setup
 web mvc all --package ~.controller
+exit
+// Spring Roo 1.2.0.RELEASE [rev 39eb957] log closed at 2012-01-30 15:43:43
